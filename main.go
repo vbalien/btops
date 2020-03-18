@@ -5,7 +5,7 @@ import (
 
 	"github.com/cmschuetz/btops/config"
 	"github.com/cmschuetz/btops/handlers"
-	"github.com/cmschuetz/btops/ipc"
+	"github.com/vbalien/btops/ipc"
 	"github.com/cmschuetz/btops/monitors"
 )
 
