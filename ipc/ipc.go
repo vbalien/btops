@@ -8,7 +8,7 @@ import (
 )
 
 const (
-	defaultBspwmSocket = "/tmp/bspwm_0_0-socket"
+	defaultBspwmSocket = "/tmp/bspwmunix_0_0-socket"
 )
 
 type Subscriber struct {
