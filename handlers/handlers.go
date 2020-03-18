@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/cmschuetz/btops/config"
-	"github.com/cmschuetz/btops/monitors"
+	"github.com/vbalien/btops/config"
+	"github.com/vbalien/btops/monitors"
 )
 
 type baseHandler struct {
